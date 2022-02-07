@@ -19,7 +19,7 @@ a:link {
 
 /* visited link */
 a:visited {
-    color: rgb(41, 46, 74);
+    color: rgb(68, 128, 154);
     text-decoration: none;
 }
 
@@ -31,7 +31,7 @@ a:hover {
 
 .a-nav {
     display: block;
-    padding: 8px;
+    padding: 10px;
     background-color: rgb(240, 240, 240);
     font-weight: bold;
 }
