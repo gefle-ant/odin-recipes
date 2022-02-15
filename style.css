@@ -44,6 +44,7 @@ a:hover {
 
 .title-image {
     max-width: 500px;
+    margin: 0 auto;
 }
 
 .title-image .center {
